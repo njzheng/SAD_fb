@@ -1,0 +1,12 @@
+{
+    "Token":"K6CemfTzmkRhcBJFmp7glA",
+    "business_flag": "TEG_AILAB_TRC_CGC_INTERN",
+    "host_num": 1,
+    "host_gpu_num": 1,
+    "image_full_name": "mirrors.tencent.com/ailab_sv/g-tlinux2.2-python3.6-torchaudio0.4-scipy-h5py-tqdm-pandas-sklearn-librosa:latest",
+    "model_local_file_path": "/apdcephfs/private_naijunzheng/Mywork/sd_base/SAD_fb",
+    "task_flag": "nj_sad_vox_noi",
+    "GPUName": "P40", 
+    "is_elasticity": true,
+    "dataset_id": "86543245220C4B5B81C44F853BA51B1C"
+}
